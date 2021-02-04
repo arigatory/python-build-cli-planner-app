@@ -70,3 +70,4 @@ src/__pycache__/external_reminders.cpython-39.pyc
 src/__pycache__/reminder.cpython-39.pyc
 tests/__pycache__/__init__.cpython-39.pyc
 tests/__pycache__/test_module1.cpython-39-pytest-5.3.5.pyc
+src/__pycache__/deadlined_reminders.cpython-39.pyc
